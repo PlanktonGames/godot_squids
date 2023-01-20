@@ -1,0 +1,30 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Scenes/Squid.tscn" type="PackedScene" id=1]
+[ext_resource path="res://Scenes/Player.tscn" type="PackedScene" id=2]
+
+[node name="level01" type="Node2D"]
+
+[node name="Player" parent="." instance=ExtResource( 2 )]
+position = Vector2( 344, 151 )
+
+[node name="Camera2D" type="Camera2D" parent="Player"]
+current = true
+
+[node name="Squid" parent="." instance=ExtResource( 1 )]
+position = Vector2( 297, 247 )
+
+[node name="Squid2" parent="." instance=ExtResource( 1 )]
+position = Vector2( 352, 247 )
+
+[node name="Squid3" parent="." instance=ExtResource( 1 )]
+position = Vector2( 407, 247 )
+
+[node name="Squid4" parent="." instance=ExtResource( 1 )]
+position = Vector2( 462, 247 )
+
+[node name="Squid5" parent="." instance=ExtResource( 1 )]
+position = Vector2( 518, 247 )
+
+[node name="Squid6" parent="." instance=ExtResource( 1 )]
+position = Vector2( 574, 247 )

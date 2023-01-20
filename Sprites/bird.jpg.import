@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/UR.png-d2c9d2c09d8952aceac27db8ab59c6c7.stex"
+path="res://.import/bird.jpg-754ff59d9d0c886ca0b404559ad19e34.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Iso-Character_x32/UR.png"
-dest_files=[ "res://.import/UR.png-d2c9d2c09d8952aceac27db8ab59c6c7.stex" ]
+source_file="res://Sprites/bird.jpg"
+dest_files=[ "res://.import/bird.jpg-754ff59d9d0c886ca0b404559ad19e34.stex" ]
 
 [params]
 
@@ -20,7 +20,7 @@ compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
-flags/filter=true
+flags/filter=false
 flags/mipmaps=false
 flags/anisotropic=false
 flags/srgb=2
@@ -31,5 +31,5 @@ process/invert_color=false
 process/normal_map_invert_y=false
 stream=false
 size_limit=0
-detect_3d=true
+detect_3d=false
 svg/scale=1.0

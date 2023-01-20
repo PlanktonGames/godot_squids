@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/DR.png-51632e63f435d72d0c3778a5d5fe745e.stex"
+path="res://.import/roboboi1.png-d2473d0442791b10e979e2a807487cc5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Iso-Character_x32/DR.png"
-dest_files=[ "res://.import/DR.png-51632e63f435d72d0c3778a5d5fe745e.stex" ]
+source_file="res://Sprites/roboboi1.png"
+dest_files=[ "res://.import/roboboi1.png-d2473d0442791b10e979e2a807487cc5.stex" ]
 
 [params]
 
@@ -20,7 +20,7 @@ compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
-flags/filter=true
+flags/filter=false
 flags/mipmaps=false
 flags/anisotropic=false
 flags/srgb=2
@@ -31,5 +31,5 @@ process/invert_color=false
 process/normal_map_invert_y=false
 stream=false
 size_limit=0
-detect_3d=true
+detect_3d=false
 svg/scale=1.0
